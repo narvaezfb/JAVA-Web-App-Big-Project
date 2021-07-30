@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="webd4201.NarvaezF">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="webd4201.NarvaezF"/>
+        <property name="java-output-path" value="/webd4201.NarvaezF/build/classes"/>
+    </wb-module>
+</project-modules>
